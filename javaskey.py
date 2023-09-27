@@ -1,6 +1,7 @@
-#Made By KunalMannu
 #Github ~ github.com/kunalmannu
-#Thanks
+#Made By KunalMannu
+#If You Copy Give Me Credits
+#Thank You
 
 import os
 import time
